@@ -1,0 +1,12 @@
+﻿Block types :
+
+n == normal block
+d == destructile block
+b == bounce block (rebound)
+m == movable blocks (slide block)
+s == speedup block
+i == Teleporter entrance (IN)
+o == Teleporter exit (OUT)
+a == autodestructive block
+
+0-9 == random suivi de #### pour l'exam	

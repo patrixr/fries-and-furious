@@ -4,3 +4,9 @@ obj
 
 # mstest test results
 TestResults
+*.cachefile
+*.bat
+*.swp
+*~
+#*#
+*.idc
