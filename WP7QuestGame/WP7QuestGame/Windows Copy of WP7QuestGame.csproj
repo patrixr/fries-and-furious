@@ -96,7 +96,6 @@
     <Compile Include="Components\Sprite.cs" />
     <Compile Include="Components\TeleporterEntranceBlock.cs" />
     <Compile Include="GameSettings.cs" />
-    <Compile Include="HitBoxManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScoreManager.cs" />
     <Compile Include="Screens\CreditScreen.cs" />
